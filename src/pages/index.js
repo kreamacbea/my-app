@@ -16,10 +16,10 @@ const IndexPage = () => (
             Complete courses about the best tools and design systems. Prototype and build apps with React and Swift.
           </p>
           <Link to="/video">Watch the video</Link>
+          <Link to="/page-2/">Go to page 2</Link>
         </div>
       </div>
     </div>
-    <Link to="/page-2/">Go to page 2</Link>
   </Layout>
 )
 
