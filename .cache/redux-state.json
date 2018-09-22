@@ -609,12 +609,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-09-22T14:38:10.722Z",
+      "buildTime": "2018-09-22T16:05:18.649Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "005186ae4d03ba730203d843b924a775",
+        "contentDigest": "7b37bb90fbc8df2e24df728f047f55cc",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
