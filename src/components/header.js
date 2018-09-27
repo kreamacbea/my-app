@@ -21,7 +21,7 @@ handleScroll = (event) => {
   if (scrollTop > 50) {
     this.setState({ hasScrolled: true })
   } else {
-  this.setState({ hasScrolled: false })
+    this.setState({ hasScrolled: false })
   }
 }
 
