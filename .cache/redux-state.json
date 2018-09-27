@@ -231,7 +231,10 @@
           "noscript",
           "style"
         ],
-        "author": "Kyle Mathews <matthews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -311,7 +314,10 @@
           "progressive-web-app",
           "pwa"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -389,7 +395,10 @@
           "precache",
           "service-worker"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -489,6 +498,10 @@
           {
             "name": "react-helmet",
             "version": "^5.2.0"
+          },
+          {
+            "name": "styled-components",
+            "version": "^3.4.9"
           }
         ],
         "devDependencies": [
@@ -534,7 +547,10 @@
           "gatsby",
           "gatsby-plugin"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -609,12 +625,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-09-27T08:28:33.365Z",
+      "buildTime": "2018-09-27T09:38:43.215Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a7dd020154dbbd6c571199c8fd6cb419",
+        "contentDigest": "5fdbef2b51d517e26760b24170d65b95",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -702,7 +718,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "889d28a725403590c42d80ae4208a1e2"
+    "PLUGINS_HASH": "3746aa452965ee968ebb88dd009fba5a"
   },
   "componentDataDependencies": {
     "nodes": {
